@@ -1,0 +1,110 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"]{
+  -moz-appearance: textfield;
+}
+.mint-tab-item-icon{
+  font-size: 0 !important;
+}
+.mint-cell-wrapper{
+  font-size: 14px;
+}
+
+.mint-field .mint-cell-title{
+  width: 160px;
+}
+.mint-navbar .mint-tab-item.is-selected{
+  border-bottom: 2px solid #fbc205;
+}
+.mint-msgbox-header{
+  padding: 0;
+}
+.mint-msgbox-title{
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e5e5;
+  font-weight: normal;
+}
+.mint-msgbox{
+  padding: 10px 10px 20px 10px;
+  width: 80%;
+  border-radius: 10px;
+}
+.mint-msgbox-content{
+  padding: 10px 10px 16px;
+  border-bottom: none;
+}
+.mint-msgbox-title{
+  color: #646464;
+}
+.mint-msgbox-message{
+  color: #646464;
+}
+.mint-header{
+  position: fixed;
+  top: 0;
+  padding-top: 20px;
+  height: 60px;
+  width: 100%;
+  z-index: 999;
+}
+.mint-tabbar{
+  position: fixed;
+  z-index: 999;
+}
+.mint-header{
+  padding-top:0;
+  font-size: 16px;
+  background-color: #FFA900;
+  color: #fff;
+  height: 50px;
+}
+.mint-header .mintui-back{
+  /* color:#FBBB28; */
+  color:#fff;
+  padding: 10px;
+
+}
+.mui-content{
+  padding-top: 44px;
+}
+.Router{
+  background-color: #F0F0F0!important;
+}
+._v-content {
+  padding-top: 80px;
+}
+.mint-tab-item-label{
+  font-size: 14px;
+}
+.mint-header-title{
+  height: 25px;
+  line-height: 25px;
+}
+button{
+  outline: none;
+  border: none;
+}
+
+.mint-cell{
+  background-color: transparent;
+  min-height:30px;
+}
+.mint-checkbox-core{
+  width: 16px;
+  height: 16px;
+}
+.mint-checkbox-core::after{
+  top:2px;
+  left: 5px;
+}
+.mint-checkbox-label{
+  margin-left: 0;
+  color: #26A2FF;
+  font-size: 12px;
+}
+.mint-header-title {
+  height: 35px!important;
+  line-height: 35px!important;
+}
